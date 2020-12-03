@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SpecFlow3Net5": {
+      "commandName": "Project"
+    }
+  }
+}
