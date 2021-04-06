@@ -8,3 +8,7 @@ The type initializer for 'Allure.SpecFlowPlugin.AllureBindingInvoker' threw an e
    at Allure.Commons.AllureLifecycle.GetDefaultJsonConfiguration()
 ```
 
+Fixing issue with:
+```sh
+<PackageReference Include="SpecFlow.Allure" Version="3.5.0.34" />
+```
